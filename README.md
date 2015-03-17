@@ -1,2 +1,1 @@
-# pen-testing-tools
-Simple Pen testing tools
+# Simple Pen testing tools
