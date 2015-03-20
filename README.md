@@ -1,2 +1,1 @@
-# pen-testing-tools
-Simple Pen testing tools in python
+# Simple Pen testing tools
